@@ -30,7 +30,7 @@ Follow these steps to get a local copy up and running on your Windows machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Magzyn.git](https://github.com/YourUsername/Magzyn.git)
+    git clone https://github.com/Krychq/Magzyn.git
     ```
 2.  **Open the project:**
     Navigate to the cloned directory and double-click the `Magzyn.sln` file to open it in Visual Studio.
