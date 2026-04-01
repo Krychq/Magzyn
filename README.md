@@ -59,4 +59,4 @@ Contributions, issues, and feature requests are welcome! If you have ideas to im
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License. Feel free to use it for your own educational purposes!
